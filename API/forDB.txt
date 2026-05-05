@@ -1,2 +1,0 @@
-read
-ini untuk DB dan API layanan
